@@ -1,0 +1,14 @@
+concept.html
+OK
+
+plan.html
+tbody　スペルミス
+
+fair.html　未
+
+contact.html　未
+
+style.css
+記述されているところまでは正しいです。
+
+スピードアップ
